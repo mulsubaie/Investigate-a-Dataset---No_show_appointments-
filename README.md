@@ -3,19 +3,19 @@
 This data contains 110.527 medical appointments and its 14 associated variables (characteristics). The most important one if the patient show-up or no-show to the appointment. I choose this dataset because It was interesting to me. <br>
 
 The columns are:
-<br>
+<br> <br>
 **PatientId<br>
-AppointmentID
-Gender
-Age
-Neighbourhood
-Scholarship
-Hipertension
-Diabetes
-Alcoholism
-Handcap
-SMS_received
-No-show**
+AppointmentID<br>
+Gender<br>
+Age<br>
+Neighbourhood<br>
+Scholarship<br>
+Hipertension<br>
+Diabetes<br>
+Alcoholism<br>
+Handcap<br>
+SMS_received<br>
+No-show**<br>
 
 **Question(s) for Analysis**
 
